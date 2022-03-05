@@ -2,4 +2,4 @@
 
 `sudo sh ./jifa_install.sh`
 
-**NOT for production use. **
+**The above script is NOT intended for the production deployment. **
