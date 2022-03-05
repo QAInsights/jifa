@@ -1,3 +1,3 @@
 # Eclipse Jifa Installation script
 
-`sudo sh `
+`sudo sh ./jifa_install.sh`
